@@ -1,0 +1,10 @@
+tbody tr *{
+    vertical-align: middle;
+}
+
+.create-container{
+    padding: 20px;
+    width: 700px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
